@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8˜ç‹½ê1
+{
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8îøúÄê1
+X	java:S125"<This block of commented-out lines of code should be removed.(òµŞ®8ã•ıÄê1
+X	java:S125"<This block of commented-out lines of code should be removed.(·åûÌ8ã•ıÄê1
+]	java:S125"<This block of commented-out lines of code should be removed.(ù¿şøÿÿÿÿ8ä•ıÄê1
+]	java:S125"<This block of commented-out lines of code should be removed.(Íô™ûüÿÿÿÿ8ä•ıÄê1
+X	java:S125"<This block of commented-out lines of code should be removed.(òµŞ®8ä•ıÄê1
+X	java:S125!"<This block of commented-out lines of code should be removed.(·åûÌ8ÛÔıÄê1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Íô™ûüÿÿÿÿ8ÛÔıÄê1
+X	java:S125+"<This block of commented-out lines of code should be removed.(Íµ¿Ò8ÛÔıÄê1

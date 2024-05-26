@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊÙ©Âê1
+D
+java:S2189""Add an end condition to this loop.(ü§è½ùÿÿÿÿ8ÙÙ©Âê1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8äÙ©Âê1
+M
+java:S2446'"0"notify" may not wake up the appropriate thread.(ä¯Û8èÙ©Âê1
+o
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…º­‘8èÙ©Âê1
+F	java:S106,"+Replace this use of System.out by a logger.(¯Û›8éÙ©Âê1
+]	java:S125-"<This block of commented-out lines of code should be removed.(·¤ªıÿÿÿÿ8éÙ©Âê1
+G	java:S106K"+Replace this use of System.out by a logger.(Ä–¦©8ìÙ©Âê1
+L	java:S106Q"+Replace this use of System.out by a logger.(Šòôëûÿÿÿÿ8îÙ©Âê1
+]	java:S125R"<This block of commented-out lines of code should be removed.(·¤ªıÿÿÿÿ8íÙ©Âê1
+G	java:S106h"+Replace this use of System.out by a logger.(Ä–¦©8äæşÂê1
